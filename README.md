@@ -1,4 +1,4 @@
-#This is the code for the implementation of APRIORI ALGORTIHM IN PYTHON 
+#### This is the code for the implementation of APRIORI ALGORTIHM IN PYTHON 
 
 ASSUMPTIONS:
 The input CSV file format should be same as the format of the demo CSV file uploaded.
